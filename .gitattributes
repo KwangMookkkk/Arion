@@ -1,0 +1,2 @@
+# PM Toolkit 칸반은 CRLF 줄바꿈이면 컬럼을 인식하지 못하므로 LF로 고정한다.
+*.kanban text eol=lf
